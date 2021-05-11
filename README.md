@@ -5,7 +5,9 @@ Fall Bois is a simple Fall Guys clone for mobile devices.
 ## Usage Information
 
 This project delevoped by Serhat "RepahidiS" İŞBİLİR
+
 You can use this project to improve yourself and learn something.
+
 This project cannot publish any platform and cannot be monetized.
 
 ## Used Packages
