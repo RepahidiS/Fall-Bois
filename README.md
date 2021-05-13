@@ -24,7 +24,7 @@ This project cannot publish any platform and cannot be monetized.
 
 ## How it's looking at scene tab
 
-![](https://github.com/RepahidiS/Fall-Bois/blob/main/Screenshots/SceneTab.png "")
+![](https://github.com/RepahidiS/Fall-Bois/blob/main/FallBois/Screenshots/SceneTab.png "")
 
 ## Here is a short gameplay video
 
